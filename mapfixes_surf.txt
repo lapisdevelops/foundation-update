@@ -20,7 +20,7 @@ add map data:
 11224975215 - Slime Map Pile - added SetVel
 11226695678 - Trikz Cloud - added SetVel
 11760638857 - Water Park - Hitbox was too big to fit through a hole
-
+12459832109 - Tube Tactics - Fixed Bumpy Ramps by  making each ramp 1 part, this should greatly reduce lag and also make the ramps nice and smooth, and i also made the ending hole bigger so its much easier to go through (if you dont know the part below it has cancollide off)
 tested, pending upload & add map data:
 
 submitted fixes need add map data:
